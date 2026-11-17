@@ -1,0 +1,22 @@
+# Local development files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Private configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated archives and dependencies
+public_html.zip
+*.zip
+node_modules/
+dist/
+build/
+coverage/
