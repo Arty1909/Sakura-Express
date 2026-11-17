@@ -2,7 +2,9 @@
 
 **A calm, interactive cat train journey through a spring garden.** Choose a feline conductor, watch petals drift by, adjust the pace, and take a short breathing break. This is a self-contained static web experience built with HTML, CSS, and vanilla JavaScript.
 
-![Sakura Express garden artwork](assets/garden.webp)
+![Sakura Express running in a browser with Mori, the cat train, in the garden](screenshots/sakura-express-desktop.png)
+
+[Open the full-resolution desktop screenshot](screenshots/sakura-express-desktop.png) (2560 × 1440 PNG).
 
 ## What you can do
 
